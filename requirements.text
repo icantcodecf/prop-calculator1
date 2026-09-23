@@ -1,0 +1,7 @@
+streamlit
+pandas
+requests
+pillow
+numpy
+easyocr
+torch --index-url https://pytorch.org
